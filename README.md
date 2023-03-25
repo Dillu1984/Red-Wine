@@ -10,7 +10,7 @@
 - Fork the repo then 
 - Tap below botton ☟︎︎︎☟︎︎︎☟︎︎︎ for deploy Red Wine-musicBot 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OpSahubot/Red-Wine)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dillu1984/Red-Wine)
 
 -------
 
